@@ -15,6 +15,8 @@
 - 📈 [Higher-Lower Game](https://github.com/rautpdr/Higher-Lower-game) – Console game comparing follower counts.
 - ☕ [Coffee Machine](https://github.com/rautpdr/Coffee_machine) – Python simulation of a coffee vending machine.
 - 🛒 [Shopping System](https://github.com/rautpdr/Shopping-System) – A basic shopping cart system in Java simulating item selection and checkout.
+- 🎰 [BlackJack Game](https://github.com/rautpdr/BlackJack-Game) – Console-based Blackjack game in Python where players compete against a dealer using real game logic and random card draws.
+
 
 
 ---
