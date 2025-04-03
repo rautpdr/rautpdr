@@ -12,6 +12,7 @@
 - 🔢 [Guess the Number](https://github.com/rautpdr/Guess-the-number) – Python game where users guess a random number.
 - 📈 [Higher-Lower Game](https://github.com/rautpdr/Higher-Lower-game) – Console game comparing follower counts.
 - ☕ [Coffee Machine](https://github.com/rautpdr/Coffee_machine) – Python simulation of a coffee vending machine.
+- 🛒 [Shopping System](https://github.com/rautpdr/Shopping-System) – A basic shopping cart system in Java simulating item selection and checkout.
 
 
 ---
