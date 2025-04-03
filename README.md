@@ -1,9 +1,11 @@
-# 👋 Hey there, I'm Prathamesh Deepak Raut
-
-👨‍🎓 CS @ DePaul | Full Stack Dev  
-💻 Java, Spring Boot, React | Python | AWS  
-☕ Projects + Coffee = ❤️ | Anime Lover 🍥  
-🔥 Fav Anime: AOT, JJK, OP, Naruto
+👋 Yo! I'm Prathamesh Deepak Raut  
+🎓 Master's in Computer Science @ DePaul University  
+💻 Code ninja by day | Manga reader by night  
+🛠️ Java | Spring Boot | React | Python | SQL  
+☁️ Training to become the Hokage of AWS & DevOps ☁️    
+🎴 Favorite Manga: Attack on Titan, Naruto, One Piece, Monster, Dragon Ball  
+📚 Always leveling up — both in tech and in anime arcs  
+✨ Motto: "Work hard, code harder, read manga hardest"
 
 ---
 
