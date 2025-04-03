@@ -1,4 +1,4 @@
-👋 Yo! I'm Prathamesh Deepak Raut  
+👋 नमस्कार(Namaskar)! I'm Prathamesh Deepak Raut  
 🎓 Master's in Computer Science @ DePaul University  
 💻 Code ninja by day | Manga reader by night  
 🛠️ Java | Spring Boot | React | Python | SQL  
