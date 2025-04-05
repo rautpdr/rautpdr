@@ -18,6 +18,7 @@
 - 🛒 [Shopping System](https://github.com/rautpdr/Shopping-System) – A basic shopping cart system in Java simulating item selection and checkout.
 - 🎰 [BlackJack Game](https://github.com/rautpdr/BlackJack-Game) – Console-based Blackjack game in Python where players compete against a dealer using real game logic and random card draws.
 - 🧠[ Quiz Generator](https://github.com/rautpdr/Quiz_Generator) – Console-based Python quiz app that uses OOP principles to manage multiple-choice questions and score tracking interactively.
+- 🐍[ Snake Game](https://github.com/rautpdr/Snake_Game) – Classic Snake game built in Python using Turtle graphics and OOP to manage snake movement, food generation, collision detection, and scoring.
 
 
 
