@@ -3,7 +3,7 @@
 💻 Code ninja by day | Manga reader by night  
 🛠️ Java | Spring Boot | React | Python | SQL | Scala
 
-☁️ Training to become the Hokage of AWS & DevOps ☁️    
+☁️ Training to become the Hokage of AWS & Software Development ☁️    
 🎴 Favorite Manga: Attack on Titan, Naruto, One Piece, Monster, Dragon Ball  
 📚 Always leveling up — both in tech and in anime arcs  
 ✨ Motto: "Work hard, code harder, read manga hardest"
