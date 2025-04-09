@@ -1,5 +1,5 @@
 👋 नमस्कार(Namaskar)! I'm Prathamesh Deepak Raut  
-🎓 Master's in Computer Science @ DePaul University  
+🎓 MS in Computer Science @ DePaul University  
 🛠️ Java | Spring Boot | React | Python | SQL | Scala
  
 ☁️ Training to become the Hokage of AWS & Software Development ☁️
