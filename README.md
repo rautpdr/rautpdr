@@ -5,7 +5,7 @@
 ☁️ Training to become the Hokage of AWS & Software Development ☁️
 💻 Code ninja by day | Manga reader by night  
 🎴 Favorite Manga: Attack on Titan, Naruto, One Piece, Monster, Dragon Ball  
-📚 Always leveling up — both in tech and in anime arcs  
+📚 Always leveling up - both in tech and in anime arcs  
 ✨ Motto: "Work hard, code harder, read manga hardest"
 
 ---
