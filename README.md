@@ -21,7 +21,8 @@
 - 🐍 [Snake Game](https://github.com/rautpdr/Snake_Game) – Classic Snake game built in Python using Turtle graphics and OOP to manage snake movement, food generation, collision detection, and scoring.
 - 🏓 [Ping Pong Game](https://github.com/rautpdr/Ping-Pong-Game) – Two-player Pong game built in Python using Turtle graphics and OOP to manage paddles, ball movement, collision logic, and scoring, with a win condition at 5 points.
 - 🐢 [Turtle Crossing Game](https://github.com/rautpdr/Turtle_crossing_game) –  Arcade-style Python game using Turtle graphics and OOP, where a turtle dodges traffic to cross the road, with increasing difficulty as levels progress.
-- 🎨 [Hirst Painting ](https://github.com/rautpdr/Hirst_Painting) –  Arcade-style Python game using Turtle graphics and OOP, where a turtle dodges traffic to cross the road, with increasing difficulty as levels progress.
+- 🎨 [Hirst Painting](https://github.com/rautpdr/Hirst_Painting) –  Arcade-style Python game using Turtle graphics and OOP, where a turtle dodges traffic to cross the road, with increasing difficulty as levels progress.
+- 🗺️ [Name US States](https://github.com/rautpdr/Name-US-States) –  Arcade-style Python game using Turtle graphics and OOP, where a turtle dodges traffic to cross the road, with increasing difficulty as levels progress.
 
 
 ---
