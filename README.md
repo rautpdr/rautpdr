@@ -25,6 +25,6 @@
 - 🗺️ [Name US States](https://github.com/rautpdr/Name-US-States) –  Interactive Turtle-based geography quiz where users guess all 50 U.S. states and their names are displayed on a map as they guess correctly.
 
 
-----
+---
 
 📫 Reach me: [linkedin.com/in/prathamesh-raut-39a545244]
