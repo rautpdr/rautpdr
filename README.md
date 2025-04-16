@@ -24,6 +24,7 @@
 - 🎨 [Hirst Painting](https://github.com/rautpdr/Hirst_Painting) –  Arcade-style Python game using Turtle graphics and OOP, where a turtle dodges traffic to cross the road, with increasing difficulty as levels progress.
 - 🗺️ [Name US States](https://github.com/rautpdr/Name-US-States) –  Interactive Turtle-based geography quiz where users guess all 50 U.S. states and their names are displayed on a map as they guess correctly.
 - ⏱️ [Timer Application](https://github.com/rautpdr/Timer_app) –  A Pomodoro-style countdown timer built with Python and Tkinter, featuring start, reset, and visual countdown functionality for productivity sessions.
+- 🔐 [Password Generator](https://github.com/rautpdr/Password_Generator) – A secure password manager and generator app built in Python using Tkinter, allowing users to create strong passwords and store them with confirmation prompts and file saving.
 
 
 ---
