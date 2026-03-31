@@ -12,6 +12,7 @@
 
 ## 🚀 My Projects
 
+- 📈 [AI Stock Trader](https://github.com/rautpdr/ai-stock-trader) – An AI-powered paper trading platform built with React, FastAPI, PostgreSQL, and Claude AI, that scans Nifty 50 stocks using live market data and 20+ technical indicators, generates trade recommendations with confidence scores and risk levels, and tracks simulated trades with full P&L analytics.
 - 🛒 [Shopping System](https://github.com/rautpdr/Shopping-System) – A basic shopping cart system in Java simulating item selection and checkout.
 - 🔢 [Guess the Number](https://github.com/rautpdr/Guess-the-number) – Python game where users guess a random number.
 - 📈 [Higher-Lower Game](https://github.com/rautpdr/Higher-Lower-game) – Console game comparing follower counts.
@@ -25,7 +26,7 @@
 - 🗺️ [Name US States](https://github.com/rautpdr/Name-US-States) –  Interactive Turtle-based geography quiz where users guess all 50 U.S. states and their names are displayed on a map as they guess correctly.
 - ⏱️ [Timer Application](https://github.com/rautpdr/Timer_app) –  A Pomodoro-style countdown timer built with Python , Tkinter and OOP, featuring start, reset, and visual countdown functionality for productivity sessions.
 - 🔐 [Password Generator](https://github.com/rautpdr/Password_Generator) – A secure password manager and generator app built in Python using Tkinter and OOP, allowing users to create strong passwords and store them with confirmation prompts and file saving.
-- 📈 [AI Stock Trader](https://github.com/rautpdr/ai-stock-trader) – An AI-powered paper trading platform built with React, FastAPI, PostgreSQL, and Claude AI, that scans Nifty 50 stocks using live market data and 20+ technical indicators, generates trade recommendations with confidence scores and risk levels, and tracks simulated trades with full P&L analytics.
+
 
 
 ---
