@@ -12,7 +12,10 @@
 
 ## 🚀 My Projects
 
+
+
 - 📈 [AI Stock Trader](https://github.com/rautpdr/ai-stock-trader) – An AI-powered paper trading platform built with React, FastAPI, PostgreSQL, and Claude AI, that scans Nifty 50 stocks using live market data and 20+ technical indicators, generates trade recommendations with confidence scores and risk levels, and tracks simulated trades with full P&L analytics.
+- 🏏[AI Fantasy Team Generator](https://github.com/rautpdr/AI-Fantasy-Team-Generator-) - An AI-driven fantasy cricket team builder using React, FastAPI, PostgreSQL, and Claude AI, that processes live match data, player credits, and toss conditions to construct budget-optimized teams (≤100 credits), applying contest-aware strategies (H2H, Small League, Grand League) with intelligent player selection, captain optimization, and explainable AI insights.
 - 🛒 [Shopping System](https://github.com/rautpdr/Shopping-System) – A basic shopping cart system in Java simulating item selection and checkout.
 - 🔢 [Guess the Number](https://github.com/rautpdr/Guess-the-number) – Python game where users guess a random number.
 - 📈 [Higher-Lower Game](https://github.com/rautpdr/Higher-Lower-game) – Console game comparing follower counts.
